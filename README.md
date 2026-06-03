@@ -80,7 +80,6 @@ matplotlib
 seaborn
 scikit-learn
 xgboost
-jupyter
 ```
 
 ---
